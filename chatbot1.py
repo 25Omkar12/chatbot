@@ -16,7 +16,7 @@ load_dotenv()
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Set path to your PDF file
-PDF_PATH = "data/data.pdf"
+#PDF_PATH = "data/data.pdf"
 
 def get_pdf_text(pdf_path):
     text = ""
