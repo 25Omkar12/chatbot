@@ -6,6 +6,7 @@ The download.py file contains the code for the google drive link download to spe
 
 ## Installation To run this ChatBot, you need to follow these steps:
 Ensure that the google Drive API is enable.
+Add the data folder to current directory so that the file can be downloaded in that folder 
 Ensure you have Python installed on your system.
 Clone this repository to your local machine.
 Install the required Python packages by running:
